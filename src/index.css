@@ -57,11 +57,15 @@ h3,
 h4,
 h5  {
     font-weight: 500;
+    padding-bottom: 1rem;
 }
 
 h1{
     font-size: 2.5rem ;
+    
 }
+
+
 
 section{
     margin-top: 8rem;
@@ -130,8 +134,8 @@ img {
         width: var(--container-width-sm);
     }
     
-}
-
 section > h2 {
     margin-top: 2rem;
+}
+
 }
